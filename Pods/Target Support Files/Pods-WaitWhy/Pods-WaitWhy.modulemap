@@ -1,0 +1,6 @@
+framework module Pods_WaitWhy {
+  umbrella header "Pods-WaitWhy-umbrella.h"
+
+  export *
+  module * { export * }
+}

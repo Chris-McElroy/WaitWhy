@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>211311107531-tno3937srtg04881cra4hhongjsbfg6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211311107531-tno3937srtg04881cra4hhongjsbfg6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAX90md6Q9XrOliwv_1UbBXx3wqxmpqAI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211311107531</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.the-mcelroys.WaitWhy</string>
+	<key>PROJECT_ID</key>
+	<string>waitwhy-30827</string>
+	<key>STORAGE_BUCKET</key>
+	<string>waitwhy-30827.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211311107531:ios:8fa6d00270187cd0</string>
+	<key>DATABASE_URL</key>
+	<string>https://waitwhy-30827.firebaseio.com</string>
+</dict>
+</plist>
